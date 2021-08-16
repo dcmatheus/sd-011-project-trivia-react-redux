@@ -5,4 +5,4 @@
 - Dê start na aplicação `npm start`
 
 
--- Projeto desenvolvido em grupor por: (Matheus Costa)<https://github.com/dcmatheus>
+-- Projeto desenvolvido em grupor por: [Matheus Costa](https://github.com/dcmatheus)
