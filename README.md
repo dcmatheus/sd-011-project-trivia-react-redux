@@ -1,5 +1,5 @@
 ## Instruções
 
-- Clone o repositório `git clone git@github.com:dcmatheus/sd-011-project-trivia-react-redux.git`
+- Clone o repositório
 - Instale as dependências `npm install`
 - Dê start na aplicação `npm start`
